@@ -1,0 +1,24 @@
+.footer {
+  &__inner {
+    border-top: 1px solid #8f95a5;
+    height: 100px;
+
+    margin-bottom: 64px;
+  }
+  &__logo2 {
+    margin-top: 39px;
+    float: left;
+  }
+  &__p {
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 36px;
+    /* identical to box height */
+
+    color: #8f95a5;
+    text-align: end;
+    margin-top: 50px;
+  }
+}

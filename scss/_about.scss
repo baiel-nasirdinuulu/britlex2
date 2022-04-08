@@ -1,0 +1,53 @@
+.about {
+  height: 500px;
+  margin-bottom: 188px;
+  &__inner {
+    width: 635px;
+
+    height: 431px;
+    float: left;
+  }
+
+  &__p {
+    width: 635px;
+    height: 215px;
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+
+    color: #8f95a5;
+  }
+  &__title {
+    margin-bottom: 25px;
+    margin-top: 30px;
+  }
+}
+
+.table {
+  display: flex;
+  justify-content: space-between;
+  gap: 120px;
+
+  flex-wrap: wrap;
+  text-align: center;
+}
+.table1 {
+}
+
+.th {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 48px;
+  line-height: 80px;
+  /* identical to box height, or 167% */
+
+  color: #2a3246;
+}
+.photo22 {
+  float: right;
+  width: 500px;
+  height: 500px;
+}

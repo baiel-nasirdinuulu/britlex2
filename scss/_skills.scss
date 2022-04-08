@@ -1,0 +1,17 @@
+.skkills {
+  &__inner {
+    display: inline-block;
+  }
+}
+.w {
+  width: 438px;
+}
+.big-box {
+  margin-bottom: 281px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 840px 531px 531p;
+}
+.skills__title {
+  text-align: center;
+}
